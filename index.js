@@ -6,7 +6,8 @@ var app = new Vue({
         todos: [
             {text: 'errands to run'},
             {text: 'meeting people'},
-            {text: 'submit some documents'}
+            {text: 'submit some documents'},
+            {text: 'finish'}
         ]
     }
 });
